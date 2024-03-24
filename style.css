@@ -1,0 +1,64 @@
+h1{
+    color: black;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+body{
+    background-color: rgb(184, 157, 209);
+    text-align: center;
+}
+.sec-1 {
+    position: absolute;
+    top: 150px;
+    right: 90px;
+}
+.texto{
+    position: absolute;
+    top: 115px;
+    right: 100px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.sec-2 {
+    position: absolute;
+    top: 150px;
+    left: 100px;
+}
+.foraneo{
+    position: absolute;
+    top: 120px;
+    left: 100px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.sec-3{
+    position: absolute;
+    top: 400px;
+    right: 100px;
+}
+.chambeador{
+    position: absolute;
+    top: 370px;
+    right: 100px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.princesa{
+    position: absolute;
+    top: 430px;
+    left: 100px;
+}
+.prince{
+    position: absolute;
+    top: -30px;
+    left: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.mimido{
+    position: absolute;
+    top: 280px;
+    right: -650px;
+}
+.mimir{
+    position: absolute;
+    top: 240px;
+    right: -500px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
